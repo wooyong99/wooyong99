@@ -27,14 +27,13 @@
 <img src="https://img.shields.io/badge/jquery-0769AD?style=flat-logo&logo=jquery&logoColor=white">
 </div>
 
-<br/>
 
 <div align=center>
 
-![wooyong99's github stats](https://github-readme-stats.vercel.app/api?username=wooyong99&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wooyong99&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![wooyong99's github stats](https://github-readme-stats.vercel.app/api?username=wooyong99&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wooyong99&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
+
 <div align=center>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwooyong99&count_bg=%234CAED5&title_bg=%23BCC4C6&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
