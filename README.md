@@ -30,8 +30,7 @@
 
 <div align=center>
 
-![wooyong99's github stats](https://github-readme-stats.vercel.app/api?username=wooyong99&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wooyong99&layout=compact&card_width=300)
+![wooyong99's github stats](https://github-readme-stats.vercel.app/api?username=wooyong99&show_icons=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wooyong99&layout=compact&card_width=300)
 
 </div>
 
