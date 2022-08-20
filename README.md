@@ -27,6 +27,7 @@
 <img src="https://img.shields.io/badge/jquery-0769AD?style=flat-logo&logo=jquery&logoColor=white">
 </div>
 
+<br>
 
 <div align=center>
 
