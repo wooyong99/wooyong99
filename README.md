@@ -17,6 +17,9 @@
 <img src="https://img.shields.io/badge/java-007396?style=flat-logo&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-logo&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-logo&logo=Django&logoColor=white"/>
+<img src="https://img.shields.io/badge/jquery-0769AD?style=flat-logo&logo=jquery&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-logo&logo=MySQL&logoColor=white">
+#4479A1
 </div>
     
     
@@ -24,7 +27,7 @@
 <h4>✍️ Studying</h4>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-logo&logo=Spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-logo&logo=Oracle&logoColor=white"/>
-<img src="https://img.shields.io/badge/jquery-0769AD?style=flat-logo&logo=jquery&logoColor=white">
+
 </div>
 
 <br>
