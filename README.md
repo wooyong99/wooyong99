@@ -13,12 +13,12 @@
 <h4>🛠️ STACKS</h4>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-logo&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/css-1572B6?style=flat-logo&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-logo&logo=JavaScript&logoColor=white">%20
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-logo&logo=JavaScript&logoColor=white"><br/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-logo&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/java-007396?style=flat-logo&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-logo&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-logo&logo=Django&logoColor=white"/>
-<img src="https://img.shields.io/badge/jquery-0769AD?style=flat-logo&logo=jquery&logoColor=white">%20
+<img src="https://img.shields.io/badge/jquery-0769AD?style=flat-logo&logo=jquery&logoColor=white"><br/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-logo&logo=MySQL&logoColor=white">
 </div>
     
