@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-logo&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-logo&logo=Django&logoColor=white"/>
-<img src="https://img.shields.io/badge/jquery-0769AD?style=flat-logo&logo=jquery&logoColor=white"><br/>
+<br/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-logo&logo=MySQL&logoColor=white">
 <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-logo&logo=MariaDB&logoColor=white">
 </div>
@@ -27,7 +27,8 @@
 <div align=center>
 <h4>✍️ Studying</h4>
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-logo&logo=Spring Boot&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-logo&logo=React&logoColor=white">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-logo&logo=Linux&logoColor=white">
+  
 </div>
 
 <br>
