@@ -11,4 +11,4 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "블로그 RSS feed URL"
+          feed_list: "https://velog.io/@wooyong99"
