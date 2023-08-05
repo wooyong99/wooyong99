@@ -45,4 +45,9 @@
 
 </div>
 <!-- BLOG-POST-LIST:START -->
+- [확장 권한 / 특수 권한](https://velog.io/@wooyong99/%EA%B3%A0%EA%B8%89%EA%B6%8C%ED%95%9C%EA%B4%80%EB%A6%AC)
+- [사용자 전환](https://velog.io/@wooyong99/%EC%82%AC%EC%9A%A9%EC%9E%90-%EC%A0%84%ED%99%98)
+- [사용자 및 그룹 관리](https://velog.io/@wooyong99/%EC%82%AC%EC%9A%A9%EC%9E%90-%EB%B0%8F-%EA%B7%B8%EB%A3%B9-%EA%B4%80%EB%A6%AC)
+- [사용자 및 그룹 정보 파일](https://velog.io/@wooyong99/%EC%82%AC%EC%9A%A9%EC%9E%90-%EB%B0%8F-%EA%B7%B8%EB%A3%B9-%EA%B4%80%EB%A6%AC%EC%9E%91%EC%84%B1%EC%A4%91)
+- [JWT + Spring Security 구현](https://velog.io/@wooyong99/JWT-Spring-Security-%EA%B5%AC%ED%98%84)
 <!-- BLOG-POST-LIST:END -->
