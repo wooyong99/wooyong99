@@ -50,11 +50,11 @@
 # 📄 Recent Blog Post 
 
 <!-- BLOG-POST-LIST:START -->
+- [23.07.24 ~ 28 교육 수강/후기 : 4주차 - Udemy 학습일지[AI 웹개발 취업캠프/정보통신산업진흥원&lpar;NIPA&rpar;]](https://velog.io/@wooyong99/23.07.24-28-%EA%B5%90%EC%9C%A1-%EC%88%98%EA%B0%95%ED%9B%84%EA%B8%B0-4%EC%A3%BC%EC%B0%A8-Udemy-%ED%95%99%EC%8A%B5%EC%9D%BC%EC%A7%80AI-%EC%9B%B9%EA%B0%9C%EB%B0%9C-%EC%B7%A8%EC%97%85%EC%BA%A0%ED%94%84%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EC%82%B0%EC%97%85%EC%A7%84%ED%9D%A5%EC%9B%90NIPA)
 - [접근 제어 리스트 &lpar;Access Control List&rpar;](https://velog.io/@wooyong99/%EC%A0%91%EA%B7%BC-%EC%A0%9C%EC%96%B4-%EB%A6%AC%EC%8A%A4%ED%8A%B8-Access-Control-List)
 - [확장권한 설정](https://velog.io/@wooyong99/%ED%99%95%EC%9E%A5%EA%B6%8C%ED%95%9C-%EC%84%A4%EC%A0%95)
 - [Docker](https://velog.io/@wooyong99/Docker-%EC%9E%91%EC%84%B1-%EC%A4%91)
 - [23.07.24 ~ 28 교육 수강/후기 : 3주차 - Udemy 학습일지[AI 웹개발 취업캠프/정보통신산업진흥원&lpar;NIPA&rpar;]](https://velog.io/@wooyong99/23.07.24-28-%EA%B5%90%EC%9C%A1-%EC%88%98%EA%B0%95%ED%9B%84%EA%B8%B0-3%EC%A3%BC%EC%B0%A8-Udemy-%ED%95%99%EC%8A%B5%EC%9D%BC%EC%A7%80AI-%EC%9B%B9%EA%B0%9C%EB%B0%9C-%EC%B7%A8%EC%97%85%EC%BA%A0%ED%94%84%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EC%82%B0%EC%97%85%EC%A7%84%ED%9D%A5%EC%9B%90NIPA)
-- [확장 권한 / 특수 권한](https://velog.io/@wooyong99/%EA%B3%A0%EA%B8%89%EA%B6%8C%ED%95%9C%EA%B4%80%EB%A6%AC)
 <!-- BLOG-POST-LIST:END -->
 
 </div>
