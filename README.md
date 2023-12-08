@@ -50,11 +50,11 @@
 # 📄 Recent Blog Post 
 
 <!-- BLOG-POST-LIST:START -->
+- [[카카오클라우드개발자] 자바 제어문, 반복문 과제](https://velog.io/@wooyong99/%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%9E%90%EB%B0%94-%EC%A0%9C%EC%96%B4%EB%AC%B8-%EB%B0%98%EB%B3%B5%EB%AC%B8-%EA%B3%BC%EC%A0%9C)
 - [프로그램 메모리 구조  &lpar; feat. 데이터, 코드영역 &rpar;](https://velog.io/@wooyong99/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EA%B5%AC%EC%A1%B0-feat.-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%BD%94%EB%93%9C%EC%98%81%EC%97%AD)
 - [쿠버네티스 컨트롤러](https://velog.io/@wooyong99/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4-%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC)
 - [쿠버네티스 오브젝트&lpar;파드, 서비스, 네임스페이스, 볼륨&rpar; - feat&lpar;Pod vs Container&rpar;](https://velog.io/@wooyong99/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4-%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8%ED%8C%8C%EB%93%9C-%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%84%A4%EC%9E%84%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4-%EB%B3%BC%EB%A5%A8-featPod-vs-Container)
 - [쿠버네티스 클러스터 구성 도구 &lpar;Kubeadm &amp; Kubespray&rpar;](https://velog.io/@wooyong99/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4-%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0-%EA%B5%AC%EC%84%B1-%EB%8F%84%EA%B5%AC-Kubeadm-Kubespray)
-- [쿠버네티스 클러스터](https://velog.io/@wooyong99/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4-%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0)
 <!-- BLOG-POST-LIST:END -->
 
 </div>
