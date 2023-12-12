@@ -50,11 +50,11 @@
 # 📄 Recent Blog Post 
 
 <!-- BLOG-POST-LIST:START -->
+- [[카카오 클라우드 과제] 학생 성적 정보 프로그램 모델링](https://velog.io/@wooyong99/%EC%B9%B4%EC%B9%B4%EC%98%A4-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EA%B3%BC%EC%A0%9C-%ED%95%99%EC%83%9D-%EC%84%B1%EC%A0%81-%EC%A0%95%EB%B3%B4-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-%EB%AA%A8%EB%8D%B8%EB%A7%81)
+- [[프로그래머스] 전화번호 목록](https://velog.io/@wooyong99/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8-%EB%AA%A9%EB%A1%9D)
 - [[프로그래머스] 폰켓몬](https://velog.io/@wooyong99/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%ED%8F%B0%EC%BC%93%EB%AA%AC)
 - [[프로그래머스] 완주하지 못한 선수](https://velog.io/@wooyong99/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80-%EB%AA%BB%ED%95%9C-%EC%84%A0%EC%88%98)
 - [[카카오 클라우드 과제] 제어문을 이용해 별 모양 찍기](https://velog.io/@wooyong99/%EC%B9%B4%EC%B9%B4%EC%98%A4-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EA%B3%BC%EC%A0%9C-%EC%A0%9C%EC%96%B4%EB%AC%B8%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%B4-%EB%B3%84-%EB%AA%A8%EC%96%91-%EC%B0%8D%EA%B8%B0)
-- [[카카오 개발자 교육] 객체지향 프로그래밍 개념 및 역사](https://velog.io/@wooyong99/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EA%B0%9C%EB%85%90-%EB%B0%8F-%EC%97%AD%EC%82%AC)
-- [[카카오 클라우드 과제] 자바 제어문, 반복문 과제](https://velog.io/@wooyong99/%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%9E%90%EB%B0%94-%EC%A0%9C%EC%96%B4%EB%AC%B8-%EB%B0%98%EB%B3%B5%EB%AC%B8-%EA%B3%BC%EC%A0%9C)
 <!-- BLOG-POST-LIST:END -->
 
 </div>
