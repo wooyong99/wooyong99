@@ -50,11 +50,11 @@
 # 📄 Recent Blog Post 
 
 <!-- BLOG-POST-LIST:START -->
+- [[객체지향] 모델링 설계 회고](https://velog.io/@wooyong99/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5-%EB%AA%A8%EB%8D%B8%EB%A7%81-%EC%84%A4%EA%B3%84-%ED%9A%8C%EA%B3%A0)
 - [[객체지향] 도메인 모델 패턴 &lpar;Domain Model&rpar;](https://velog.io/@wooyong99/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5-%EB%8F%84%EB%A9%94%EC%9D%B8-%EB%AA%A8%EB%8D%B8-%ED%8C%A8%ED%84%B4-Domain-Model)
 - [[객체지향] 책임주도 설계](https://velog.io/@wooyong99/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5-%EC%B1%85%EC%9E%84%EC%A3%BC%EB%8F%84-%EC%84%A4%EA%B3%84)
 - [[카카오 클라우드 과제] 회원관리 프로그램 모델링](https://velog.io/@wooyong99/%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%EA%B3%BC%EC%A0%9C-%ED%9A%8C%EC%9B%90%EA%B4%80%EB%A6%AC-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-%EB%AA%A8%EB%8D%B8%EB%A7%81)
 - [[카카오 클라우드 과제] 학생 성적 정보 프로그램 모델링](https://velog.io/@wooyong99/%EC%B9%B4%EC%B9%B4%EC%98%A4-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EA%B3%BC%EC%A0%9C-%ED%95%99%EC%83%9D-%EC%84%B1%EC%A0%81-%EC%A0%95%EB%B3%B4-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-%EB%AA%A8%EB%8D%B8%EB%A7%81)
-- [[프로그래머스] 전화번호 목록](https://velog.io/@wooyong99/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8-%EB%AA%A9%EB%A1%9D)
 <!-- BLOG-POST-LIST:END -->
 
 </div>
