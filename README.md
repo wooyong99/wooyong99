@@ -50,11 +50,11 @@
 # 📄 Recent Blog Post 
 
 <!-- BLOG-POST-LIST:START -->
+- [[자바스크립트] 리터럴](https://velog.io/@wooyong99/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EB%A6%AC%ED%84%B0%EB%9F%B4)
 - [[자바스크립트] JavaScript 개념 및 역사 &lpar; feat. Node.js &rpar;](https://velog.io/@wooyong99/%EC%B9%B4%EC%B9%B4%EC%98%A4-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EA%B5%90%EC%9C%A1-JavaScript-%EC%97%AD%EC%82%ACfeat.-CORS)
 - [[카카오 개발자 교육] DOM 모델](https://velog.io/@wooyong99/%EC%B9%B4%EC%B9%B4%EC%98%A4-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EA%B5%90%EC%9C%A1-DOM-%EB%AA%A8%EB%8D%B8)
 - [[객체지향] SOLID 원칙 이해하기 &lpar; feat.  디자인 패턴&rpar;](https://velog.io/@wooyong99/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5-SOLID-%EC%9B%90%EC%B9%99-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-feat.-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4)
 - [[디자인 패턴] 디자인 패턴 분류](https://velog.io/@wooyong99/%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4-%EB%B6%84%EB%A5%98)
-- [[카카오 개발자 교육] 네트워크 &lpar; feat. Stream &rpar;](https://velog.io/@wooyong99/%EC%B9%B4%EC%B9%B4%EC%98%A4-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EA%B5%90%EC%9C%A1-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-feat.-Stream)
 <!-- BLOG-POST-LIST:END -->
 
 </div>
