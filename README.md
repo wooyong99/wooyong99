@@ -50,11 +50,11 @@
 # 📄 Recent Blog Post 
 
 <!-- BLOG-POST-LIST:START -->
+- [[Spring] Servlet, Listener, Filter 비교](https://velog.io/@wooyong99/Spring-Servlet-Listener-Filter-%EB%B9%84%EA%B5%90)
+- [[Spring] Filter 이해하기](https://velog.io/@wooyong99/Spring-Filter-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0)
 - [[Spring] Listener 이해하기](https://velog.io/@wooyong99/Spring-Servlet-Listener-%EB%93%B1%EB%A1%9D)
-- [[Spring] Listener, Filter, Servlet 차이점](https://velog.io/@wooyong99/Spring-Listener-Filter-Servlet-%EC%B0%A8%EC%9D%B4%EC%A0%90)
 - [[Spring] Servlet 이해하기](https://velog.io/@wooyong99/Spring-Servlet-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0)
 - [[JPA] EntityManager, EntityManagerFactory](https://velog.io/@wooyong99/JPA-EntityManager-EntityManagerFactory)
-- [[JPA] 객체 매핑](https://velog.io/@wooyong99/JPA-%EA%B0%9D%EC%B2%B4-%EB%A7%A4%ED%95%91)
 <!-- BLOG-POST-LIST:END -->
 
 </div>
