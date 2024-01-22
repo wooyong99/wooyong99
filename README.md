@@ -50,7 +50,7 @@
 # 📄 Recent Blog Post 
 
 <!-- BLOG-POST-LIST:START -->
-- [[Spring] Servlet Listener 등록](https://velog.io/@wooyong99/Spring-Servlet-Listener-%EB%93%B1%EB%A1%9D)
+- [[Spring] Listener 이해하기](https://velog.io/@wooyong99/Spring-Servlet-Listener-%EB%93%B1%EB%A1%9D)
 - [[Spring] Listener, Filter, Servlet 차이점](https://velog.io/@wooyong99/Spring-Listener-Filter-Servlet-%EC%B0%A8%EC%9D%B4%EC%A0%90)
 - [[Spring] Servlet 이해하기](https://velog.io/@wooyong99/Spring-Servlet-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0)
 - [[JPA] EntityManager, EntityManagerFactory](https://velog.io/@wooyong99/JPA-EntityManager-EntityManagerFactory)
