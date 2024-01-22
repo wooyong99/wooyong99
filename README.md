@@ -50,11 +50,11 @@
 # 📄 Recent Blog Post 
 
 <!-- BLOG-POST-LIST:START -->
+- [[Spring] Servlet 이해하기](https://velog.io/@wooyong99/Spring-Servlet-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0)
 - [[JPA] EntityManager, EntityManagerFactory](https://velog.io/@wooyong99/JPA-EntityManager-EntityManagerFactory)
 - [[JPA] 객체 매핑](https://velog.io/@wooyong99/JPA-%EA%B0%9D%EC%B2%B4-%EB%A7%A4%ED%95%91)
 - [[자바스크립트] 함수](https://velog.io/@wooyong99/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%ED%95%A8%EC%88%98)
 - [[자바스크립트] 리터럴](https://velog.io/@wooyong99/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EB%A6%AC%ED%84%B0%EB%9F%B4)
-- [[자바스크립트] JavaScript 개념 및 역사 &lpar; feat. Node.js &rpar;](https://velog.io/@wooyong99/%EC%B9%B4%EC%B9%B4%EC%98%A4-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EA%B5%90%EC%9C%A1-JavaScript-%EC%97%AD%EC%82%ACfeat.-CORS)
 <!-- BLOG-POST-LIST:END -->
 
 </div>
