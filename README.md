@@ -50,7 +50,7 @@
 # 📄 Recent Blog Post 
 
 <!-- BLOG-POST-LIST:START -->
-- [[Spring] DispatcherServlet](https://velog.io/@wooyong99/Spring-DispatcherServlet)
+- [[Spring] DispatcherServlet &lpar; feat. ApplicationContext, WebApplicationContext &rpar;](https://velog.io/@wooyong99/Spring-DispatcherServlet)
 - [[Spring] Application Context](https://velog.io/@wooyong99/Spring-Application-Context)
 - [[Spring] Servlet, Listener, Filter 비교](https://velog.io/@wooyong99/Spring-Servlet-Listener-Filter-%EB%B9%84%EA%B5%90)
 - [[Spring] Filter 이해하기](https://velog.io/@wooyong99/Spring-Filter-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0)
