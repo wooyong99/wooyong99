@@ -16,11 +16,11 @@
   
 ### 📝 Recent Post 
 <!-- BLOG-POST-LIST:START -->
+- [[JPA] 즉시로딩, 지연로딩](https://velog.io/@wooyong99/JPA-%EC%A6%89%EC%8B%9C%EB%A1%9C%EB%94%A9-%EC%A7%80%EC%97%B0%EB%A1%9C%EB%94%A9)
 - [[JPA] TransientPropertyValueException 해결 방법](https://velog.io/@wooyong99/JPA-TransientPropertyValueException-%ED%95%B4%EA%B2%B0-%EB%B0%A9%EB%B2%95)
 - [[Spring] 멀티 모듈 다른 모듈 ComponentScan](https://velog.io/@wooyong99/Spring-%EB%A9%80%ED%8B%B0-%EB%AA%A8%EB%93%88-%EB%8B%A4%EB%A5%B8-%EB%AA%A8%EB%93%88-ComponentScan)
 - [[JPA] Entity 매핑](https://velog.io/@wooyong99/JPA-Entity-%EB%A7%A4%ED%95%91)
 - [[Spring] DispatcherServlet &lpar; feat. ApplicationContext, WebApplicationContext &rpar;](https://velog.io/@wooyong99/Spring-DispatcherServlet)
-- [[Spring] Application Context](https://velog.io/@wooyong99/Spring-Application-Context)
 <!-- BLOG-POST-LIST:END -->
 
 </div>
