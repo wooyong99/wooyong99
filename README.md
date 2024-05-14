@@ -16,11 +16,11 @@
   
 ### 📝 Recent Post 
 <!-- BLOG-POST-LIST:START -->
+- [커버링 인덱스을 통한 성능 최적화 &lpar;feat. MySQL&rpar;](https://velog.io/@wooyong99/%EC%BB%A4%EB%B2%84%EB%A7%81-%EC%9D%B8%EB%8D%B1%EC%8A%A4%EC%9D%84-%ED%86%B5%ED%95%9C-%EC%84%B1%EB%8A%A5-%EC%B5%9C%EC%A0%81%ED%99%94-feat.-MySQL)
 - [Redis 란 &lpar;1&rpar;  - &lpar; feat. In-Memory, Key-Value&rpar;](https://velog.io/@wooyong99/Redis%EB%9E%80-feat.-In-Memory-Key-Value)
 - [성능 개선 및 SQL 튜닝 &lpar;feat. Scalar SubQuery, Theta Join&rpar;](https://velog.io/@wooyong99/%EC%84%B1%EB%8A%A5-%EC%B5%9C%EC%A0%81%ED%99%94-%EB%B0%8F-SQL-%ED%8A%9C%EB%8B%9D-feat.-Scalar-SubQuery-Theta-Join)
 - [[JPA] detached entity passed to persist 해결방법 &lpar;feat. InvalidDataAccessApiUsageException&rpar;](https://velog.io/@wooyong99/JPA-detached-entity-passed-to-persist-%ED%95%B4%EA%B2%B0%EB%B0%A9%EB%B2%95-feat.-InvalidDataAccessApiUsageException)
 - [[JPA] 즉시로딩, 지연로딩](https://velog.io/@wooyong99/JPA-%EC%A6%89%EC%8B%9C%EB%A1%9C%EB%94%A9-%EC%A7%80%EC%97%B0%EB%A1%9C%EB%94%A9)
-- [[JPA] TransientPropertyValueException 해결 방법](https://velog.io/@wooyong99/JPA-TransientPropertyValueException-%ED%95%B4%EA%B2%B0-%EB%B0%A9%EB%B2%95)
 <!-- BLOG-POST-LIST:END -->
 
 </div>
