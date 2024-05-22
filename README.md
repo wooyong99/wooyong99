@@ -16,11 +16,11 @@
   
 ### 📝 Recent Post 
 <!-- BLOG-POST-LIST:START -->
+- [처리율 제한 장치 도입 &lpar; feat. 토큰 버킷 알고리즘&rpar;](https://velog.io/@wooyong99/%EC%B2%98%EB%A6%AC%EC%9C%A8-%EC%A0%9C%ED%95%9C-%EC%9E%A5%EC%B9%98-%EB%8F%84%EC%9E%85-feat.-%ED%86%A0%ED%81%B0-%EB%B2%84%ED%82%B7-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
 - [채팅 기능 구현을 위한 메시지 브로커는 ? &lpar; feat. Kafka, Redis&rpar;](https://velog.io/@wooyong99/%EC%B1%84%ED%8C%85-%EA%B8%B0%EB%8A%A5-%EA%B5%AC%ED%98%84%EC%9D%84-%EC%9C%84%ED%95%9C-%EB%A9%94%EC%8B%9C%EC%A7%80-%EB%B8%8C%EB%A1%9C%EC%BB%A4%EB%8A%94-feat.-Kafka-Redis)
 - [커버링 인덱스을 통한 성능 최적화 &lpar;feat. MySQL&rpar;](https://velog.io/@wooyong99/%EC%BB%A4%EB%B2%84%EB%A7%81-%EC%9D%B8%EB%8D%B1%EC%8A%A4%EC%9D%84-%ED%86%B5%ED%95%9C-%EC%84%B1%EB%8A%A5-%EC%B5%9C%EC%A0%81%ED%99%94-feat.-MySQL)
 - [Redis 란 &lpar;1&rpar;  - &lpar; feat. In-Memory, Key-Value&rpar;](https://velog.io/@wooyong99/Redis%EB%9E%80-feat.-In-Memory-Key-Value)
 - [성능 개선 및 SQL 튜닝 &lpar;feat. Scalar SubQuery, Theta Join&rpar;](https://velog.io/@wooyong99/%EC%84%B1%EB%8A%A5-%EC%B5%9C%EC%A0%81%ED%99%94-%EB%B0%8F-SQL-%ED%8A%9C%EB%8B%9D-feat.-Scalar-SubQuery-Theta-Join)
-- [[JPA] detached entity passed to persist 해결방법 &lpar;feat. InvalidDataAccessApiUsageException&rpar;](https://velog.io/@wooyong99/JPA-detached-entity-passed-to-persist-%ED%95%B4%EA%B2%B0%EB%B0%A9%EB%B2%95-feat.-InvalidDataAccessApiUsageException)
 <!-- BLOG-POST-LIST:END -->
 
 </div>
