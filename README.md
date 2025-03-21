@@ -18,7 +18,7 @@
   
 ### 📝 Recent Post 
 <!-- BLOG-POST-LIST:START -->
-- [도메인 객체 간 직접 참조의 한계와 ID 기반 참조를 선택한 이유 &lpar; feat. 데이터 중심 설계, N+1문제 &rpar;](https://velog.io/@wooyong99/%EA%B0%9D%EC%B2%B4-%EC%B0%B8%EC%A1%B0%EB%A1%9C-%EC%9D%B8%ED%95%9C-%EB%AC%B8%EC%A0%9C%EC%A0%90-feat.-%EB%8F%84%EB%A9%94%EC%9D%B8-%EC%A3%BC%EB%8F%84-%EA%B0%9C%EB%B0%9C-N1)
+- [도메인 객체 간 직접 참조의 한계와 ID 기반 참조를 선택한 이유 &lpar; feat. 데이터 중심 설계, N+1문제 &rpar;](https://velog.io/@wooyong99/%EB%8F%84%EB%A9%94%EC%9D%B8-%EA%B0%9D%EC%B2%B4-%EA%B0%84-%EC%A7%81%EC%A0%91-%EC%B0%B8%EC%A1%B0%EC%9D%98-%ED%95%9C%EA%B3%84%EC%99%80-ID-%EA%B8%B0%EB%B0%98-%EC%B0%B8%EC%A1%B0%EB%A5%BC-%EC%84%A0%ED%83%9D%ED%95%9C-%EC%9D%B4%EC%9C%A0-feat.-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A4%91%EC%8B%AC-%EC%84%A4%EA%B3%84-N1%EB%AC%B8%EC%A0%9C)
 - [JPA 영속성 컨텍스트와 QueryDSL 벌크 연산 간 충돌 &lpar; feat. UPDATE, DELETE &rpar;](https://velog.io/@wooyong99/JPA-%EC%98%81%EC%86%8D%EC%84%B1-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8%EC%99%80-QueryDSL-%EB%B2%8C%ED%81%AC-%EC%97%B0%EC%82%B0-%EA%B0%84-%EC%B6%A9%EB%8F%8C-feat.-UPDATE-DELETE)
 - [[프로그래머스] 타겟 넘버](https://velog.io/@wooyong99/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%ED%83%80%EA%B2%9F-%EB%84%98%EB%B2%84)
 - [삭제 스케줄링에 대한 성능 개선](https://velog.io/@wooyong99/%EC%82%AD%EC%A0%9C-%EC%8A%A4%EC%BC%80%EC%A4%84%EB%A7%81%EC%97%90-%EB%8C%80%ED%95%9C-%EC%84%B1%EB%8A%A5-%EA%B0%9C%EC%84%A0)
