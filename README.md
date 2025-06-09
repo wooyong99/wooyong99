@@ -10,7 +10,6 @@
 
 ### 📌 Skills
 ![Java](https://img.shields.io/badge/JAVA-007396.svg?style=flat-square&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/SprintBoot-236DB33F.svg?style=flat-square&logo=springboot&logoColor=white) ![Spring](https://img.shields.io/badge/JPA-236DB33F.svg?style=flat-square&logo=JPA&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=flat-square&logo=Gradle&logoColor=white) <br/>
-![C#](https://img.shields.io/badge/-C%23-000000?logo=Csharp&style=flat-square)
 ![.Net](https://img.shields.io/badge/.NET-512BD4.svg?style=flat-square&logo=.net&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D.svg?style=flat-square&logo=vue.js&logoColor=white) <br/>
  ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS%20EC2-FF9900.svg?style=flat-square&logo=amazonec2&logoColor=white) ![AWS](https://img.shields.io/badge/AWS%20RDS-527FFF.svg?style=flat-square&logo=amazonrds&logoColor=white) 
 
