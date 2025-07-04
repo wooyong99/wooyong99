@@ -1,17 +1,20 @@
 ## "복잡한 현실 문제를 단순하고 유지보수하기 쉬운 구조로 해결하는 개발자"를 지향합니다.
 
-- **사용자 경험**을 가장 중요하게 생각합니다.
-- 협업에서 **소통**과 **일관된 개발 스타일**의 중요하게 생각합니다.
-- 빠르게 만들기보다, 나중에 **보기 쉽고 바꾸기 쉬운 코드**를 추구합니다.
-- 기술의 **원리와 구조를 이해하려는 태도**를 가지고 있습니다.
-- 효율적인 개발을 위해 **쿼리 튜닝, 정규화**와 같은 **성능 최적화**를 위해 고민합니다.
+- **사용자의 요구사항과 흐름을 이해하기 위해 사용자 경험을 먼저 고민합니다.**<br/>
+  사용자의 입장에서 도메인을 해석하고, 더 나은 사용성을 설계하는 것이 개발의 출발점이라고 생각합니다.
+- **협업 과정에서 혼선을 줄이기 위해, 소통과 일관된 개발 스타일을 중요하게 생각합니다.**<br/>
+  누구나 읽기 쉬운 코드, 명확한 규칙, 문서화된 흐름이 팀의 생산성을 높인다고 믿습니다.
+- **기능 구현보다 유지보수성을 높이기 위해, 보기 쉽고 바꾸기 쉬운 코드를 추구합니다.**<br/>
+  빠르게 만드는 코드보다, 시간이 지나도 의도를 이해할 수 있는 코드가 더 가치 있다고 생각합니다.
+- **단순한 사용법보다 근본적인 원리를 이해하기 위해, 기술의 구조와 동작 방식을 학습합니다.**<br/>
+  새로운 기술을 사용할 때는 항상 "왜 이렇게 동작하는가"를 먼저 고민하려고 합니다.
+- **불필요한 병목을 줄이기 위해, 쿼리 튜닝과 정규화 등 성능 최적화 방법을 고민합니다.**<br/>
 
 
 ### 📌 Skills
 ![Java](https://img.shields.io/badge/JAVA-007396.svg?style=flat-square&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/SprintBoot-236DB33F.svg?style=flat-square&logo=springboot&logoColor=white)  ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=flat-square&logo=Gradle&logoColor=white) <br/>
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D.svg?style=flat-square&logo=vue.js&logoColor=white) <br/>
  ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900.svg?style=flat-square&logo=amazonec2&logoColor=white) 
-
 
   
 ### 📝 Recent Post 
