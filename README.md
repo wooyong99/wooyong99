@@ -26,5 +26,8 @@
 - [도메인 객체 간 직접 참조의 한계와 ID 기반 참조를 선택한 이유 &lpar; feat. 데이터 중심 설계, N+1문제 &rpar;](https://velog.io/@wooyong99/%EA%B0%9D%EC%B2%B4-%EC%B0%B8%EC%A1%B0%EB%A1%9C-%EC%9D%B8%ED%95%9C-%EB%AC%B8%EC%A0%9C%EC%A0%90-feat.-%EB%8F%84%EB%A9%94%EC%9D%B8-%EC%A3%BC%EB%8F%84-%EA%B0%9C%EB%B0%9C-N1)
 <!-- BLOG-POST-LIST:END -->
 
+### 🌐 Developed Services
+- [온라인 상품권 구매 및 결제 플랫폼](https://pin-toss.com)
+- [미용실 예약 서비스](https://cut-story.com)
 </div>
 </div>
