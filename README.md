@@ -19,7 +19,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 ### Developed Services
-- [온라인 상품권 구매 및 결제 플랫폼](https://pin-toss.com)
-- [미용실 예약 서비스](https://cut-story.com)
+- [24시간 자동 발송 시스템을 갖춘 모바일 상품권 전문 쇼핑몰](https://pin-toss.com)
+- [포스·키오스크 등 매장 결제 솔루션 기업의 공식 브랜드 웹사이트](https://payplay.kr)
 </div>
 </div>
